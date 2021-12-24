@@ -97,6 +97,9 @@ const styles = StyleSheet.create({
 
     feedItem: {
         marginTop: 20,
+        backgroundColor: '#FFF',
+        paddingBottom: 10,
+        paddingTop: 10,
     },
 
     feedItemHeader: {
